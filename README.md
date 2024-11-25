@@ -2,6 +2,12 @@
 Physics Based iPadOS Keyboard Instrument.
 Written in 2022 as coursework for the iOS Programming for Audio third year module at the University of York. 
 
+More recently it is being ported to iOS for iPhone.
+
+- Jonathan Cooke
+  (25/11/2024)
+
+===========================================================================================================
 PhysiBoard has been written using Xcode (13.4.1), for iPad OS 15.7. Developed using an iPad 9th Generation.
 
 Apple iOS Frameworks:
@@ -13,11 +19,6 @@ Third-Party Frameworks:
 
 AudioKit published under the MIT License.
 https://github.com/AudioKit
-
-More recently it is being ported to iOS for iPhone.
-
-- Jonathan Cooke
-  (25/11/2024)
 
 ![image](Images/MainInterface.png)
 
