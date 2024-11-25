@@ -1,4 +1,4 @@
-# Physiboard
+# PhysiBoard
 Physics Based iPadOS Keyboard Instrument.
 Written in 2022 as coursework for the iOS Programming for Audio third year module at the University of York. 
 
