@@ -1,5 +1,11 @@
 # Physiboard
-Physics Based iOS Keyboard Instrument
+Physics Based iPadOS Keyboard Instrument
+Written in 2022 as coursework for the iOS Programming for Audio third year module at the University of York.
+
+More recently it is being ported to iOS for iPhone.
+
+- Jonathan Cooke
+  (25/11/2024)
 
 ## Video Demonstration
 https://youtu.be/fRnqj8or5o0?si=J7APSFFjQyHSSDbf
