@@ -1,6 +1,11 @@
 # Physiboard
 Physics Based iOS Keyboard Instrument
 
+## Video Demonstration
+https://youtu.be/fRnqj8or5o0?si=J7APSFFjQyHSSDbf
+
+## Mock App Store Description
+
 App Name: PhysiBoard
 
 App Description:
