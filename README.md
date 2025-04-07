@@ -7,6 +7,9 @@ More recently it is being ported to iOS for iPhone.
 - Jonathan Cooke
   (25/11/2024)
 
+## Video Demonstration
+https://youtu.be/fRnqj8or5o0?si=J7APSFFjQyHSSDbf
+
 =====================================================
 
 PhysiBoard has been written using Xcode (13.4.1), for iPad OS 15.7. Developed using an iPad 9th Generation.
@@ -22,9 +25,6 @@ AudioKit published under the MIT License.
 https://github.com/AudioKit
 
 ![image](Images/MainInterface.png)
-
-## Video Demonstration
-https://youtu.be/fRnqj8or5o0?si=J7APSFFjQyHSSDbf
 
 ## Mock App Store Description
 
